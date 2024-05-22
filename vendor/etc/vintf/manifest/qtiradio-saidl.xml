@@ -1,0 +1,18 @@
+<!-- Copyright (c) 2021 Qualcomm Technologies, Inc.
+     All Rights Reserved.
+     Confidential and Proprietary - Qualcomm Technologies, Inc.
+-->
+<manifest version="1.0" type="device">
+<!-- For single and dual card compatibility, move to odm/qcril-nr/qcrild/qcrild/qtiradio-saidl.xml -->
+<!-- For single and dual card compatibility, move to odm/qcril-nr/qcrild/qcrild/qtiradio-saidl_singel_sim.xml -->
+	<!--
+    <hal format="aidl">
+        <name>vendor.qti.hardware.radio.qtiradio</name>
+        <version>9</version>
+        <fqname>IQtiRadioStable/slot1</fqname>
+        <fqname>IQtiRadioStable/slot2</fqname>
+    </hal>
+	-->
+<!-- For single and dual card compatibility, move to odm/qcril-nr/qcrild/qcrild/qtiradio-saidl.xml -->
+<!-- For single and dual card compatibility, move to odm/qcril-nr/qcrild/qcrild/qtiradio-saidl_singel_sim.xml -->
+</manifest>
