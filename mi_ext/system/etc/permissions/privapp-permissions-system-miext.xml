@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+   <privapp-permissions package="com.boundax.koreapreloadappinstaller">
+      <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
+      <permission name="android.permission.INSTALL_PACKAGES" />
+      <permission name="android.permission.STATUS_BAR" />
+   </privapp-permissions>
+</permissions>
